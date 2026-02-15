@@ -1,4 +1,4 @@
-# Virtual Column in Pandas DataFrame
+# Implementation of Virtual Column in Pandas DataFrame
 
 > *This project contains a function `add_virtual_column` that creates a new DataFrame with a calculated column based on a string expression.*
 
